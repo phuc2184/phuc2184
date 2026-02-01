@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Dang Trong Phuc! 👋
 
-<!--
-**phuc2184/phuc2184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **AI & Data Science Student @ Thuy Loi University (HCMC)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Competitions & Achievements
+- **ICPC National 2025:** Participant (Team: **TLU.ThiNghe1st**)
+- **YDCC 2025:** Top 10 Finalist
+
+### 🛠 Tech Stack & Tools
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B4AD?style=for-the-badge&logo=pop-os&logoColor=white)
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=phuc2184&show_icons=true&theme=radical)
+
+---
+*Focused on Algorithms & AI Development. Preparing for 2nd-year internship.*
