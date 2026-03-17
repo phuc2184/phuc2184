@@ -17,4 +17,3 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=phuc2184&show_icons=true&theme=radical)
 
 ---
-*Focused on Algorithms & AI Development. Preparing for 2nd-year internship.*
